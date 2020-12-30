@@ -1,5 +1,7 @@
 # Matlab-projects
 
+#MATLAB file
+Used Simulink Library
 Assignment list:
 
 1. Cockroft Walton Voltage Doubler
